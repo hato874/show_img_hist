@@ -9,7 +9,7 @@ def get_image():
     """
 
     img_url = \
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MtFuji_FujiCity.jpg/800px-MtFuji_FujiCity.jpg'
+        'https://upload.wikimedia.org/wikipedia/commons/1/1b/080103_hakkai_fuji.jpg'
 
     im = imread(img_url)
 
